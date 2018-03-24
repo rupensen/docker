@@ -1,2 +1,0 @@
-# docker
-devops docker
